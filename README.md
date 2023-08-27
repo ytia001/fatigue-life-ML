@@ -5,7 +5,7 @@ Machine learning-based prediction of Polyacrlyamide (PAAm) hydrogel's fatigue li
 
 # 1. Generation of Raw data
 Raw data (90 samples) was generated from fatigue testing of PAAm hydrogel under dehydration
-The testing was carried using the machine <b>instron 3366<\b>
+The testing was carried using the machine <b>instron 3366
 
 Parameters varied : 
 Loading rate of testing & maximum stretch of the PAAm hydrogel
