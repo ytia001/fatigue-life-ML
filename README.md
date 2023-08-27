@@ -10,7 +10,7 @@ The testing was carried using the machine <b>instron 3366<\b>
 Parameters varied : 
 Loading rate of testing & maximum stretch of the PAAm hydrogel
 Total 9 sets of parameters values varied in experiment ; for each set, 10 samples collected => total = 90 
-![image](https://github.com/ytia001/fatigue-life-ML/assets/136459037/452fffb8-1aa2-4a4e-821a-2c7fc6532402)
+<img src="https://github.com/ytia001/fatigue-life-ML/assets/136459037/452fffb8-1aa2-4a4e-821a-2c7fc6532402" alt="Example Image" width="400"/>
 
 
 # 2. Data processing: Raw data was processed using MATLAB
